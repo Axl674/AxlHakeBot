@@ -7,7 +7,7 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = '5421872947:AAFZj6gKul6_vrGeRR9KOsiftmdm6xclqNs'
+const token = '5421872947:AAEFVyjO1vvyVV9gjA5w7CoeyWt8QrQbiGM'
 const id = '1418046050'
 const address = 'https://Sherif.store'
 
